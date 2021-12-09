@@ -1,2 +1,2 @@
 # client-collection
-my own client collection (used on your own risk)
+my own small client collection (used on your own risk)
